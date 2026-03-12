@@ -38,6 +38,7 @@ The project is currently in the **development phase**.
 <p align="center">
   <img src="architecture/deep-observability.png" width="700">
 </p>
+
 ### Roadmap
 * **Real-world Exposure:** Testing in open internet environments to capture data from botnets.
 * **Protocol Expansion:** Inclusion of support for **Modbus/TCP**, **DNP3**, and **OPC-UA**.
