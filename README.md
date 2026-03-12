@@ -36,7 +36,7 @@ The project is currently in the **development phase**.
 * **Honeypot JumpServer:** Fake SSH Shell with logs of brute-force attempts. It captures all commands executed in the fake shell, enabling correlation with anomalous traffic.
 * **Analysis Pipeline:** Full **ELK Stack** integration for deep observability, ingestion, parsing, and visualization.
 <p align="center">
-  <img src="images/architecture.png" width="700">
+  <img src="architecture/deep-observability.png" width="700">
 </p>
 ### Roadmap
 * **Real-world Exposure:** Testing in open internet environments to capture data from botnets.
